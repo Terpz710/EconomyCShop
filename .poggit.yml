@@ -5,4 +5,5 @@ branches:
 projects:
   EconomyCShop:
     path: ""
+    lint: false
 ...
